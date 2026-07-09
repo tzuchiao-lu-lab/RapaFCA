@@ -9,7 +9,7 @@ Rapamycin extends lifespan across species, yet its cell-type-specific benefits a
 <br/><br/>
 
 # Reference
- 
+Tzu-Chiao Lu, Chung-Yi Liang, Ye-Jin Park, Niccole Auld, Tyler Jackson, Zhiyong Yin, Erin Harrison, Bo Sun, Mujeeb Qadiri, Norbert Perrimon, Ao-Lin Hsu, Yanyan Qi, Hongjie Li. (2026) Rapamycin Mitigates a Sex-biased Convergent Aging Trajectory. 2026.07.02.736117. https://doi.org/10.64898/2026.07.02.736117.
 <br/><br/>
 
 
